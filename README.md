@@ -1,5 +1,6 @@
 ### Hi there 👋
 This is Sherry! Welcome to my Github Profile 😄
+[](https://img.shields.io/badge/Kaggle-110%20Upvotes-blue)
 
 - 🔭 I’m currently working on an algorithmic trading pipeline for @eeonum. 
 - 🌱 I’m currently learning Javascript and NodeJS, ReactJS. 
@@ -7,7 +8,6 @@ This is Sherry! Welcome to my Github Profile 😄
 - 💬 Ask me about trading, fintech, econ/social trends, interesting data questions, or gaming! 
 - 🎮 Big gamer of overwatch >_< and Nintendo & Steam Indie games. 
 - ⚡ Pronouns: She/her/hers. 
-
 
 <!--
 **sherrytp/sherrytp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
