@@ -1,6 +1,5 @@
 ### Hi there 👋
 This is Sherry! Welcome to my Github Profile 😄
-[](https://img.shields.io/badge/Kaggle-110%20Upvotes-blue)
 
 - 🔭 I’m currently working on an algorithmic trading pipeline for @eeonum. 
 - 🌱 I’m currently learning Javascript and NodeJS, ReactJS. 
@@ -9,6 +8,9 @@ This is Sherry! Welcome to my Github Profile 😄
 - 🎮 Big gamer of overwatch >_< and Nintendo & Steam Indie games. 
 - ⚡ Pronouns: She/her/hers. 
 
+![](https://img.shields.io/badge/Kaggle-110%20Upvotes-blue)
+
+![sherrytp's github stats](https://github-readme-stats.vercel.app/api?username=sherrytp&show_icons=true)
 <!--
 **sherrytp/sherrytp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
