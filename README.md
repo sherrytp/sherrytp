@@ -4,7 +4,7 @@
 
 - :telescope: I’m currently working on an algorithmic trading pipeline for [@Eeonum](https://github.com/Eeonum).
 - :seedling: I’m currently learning Javascript and NodeJS, ReactJS.
-- :video_game: Gamer of Overwatch ([OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab)>_<), Valorant, Apex Legends, & Indie games.
+- :video_game: Gamer of Overwatch (Here is a data-scrapping project related to [OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab) >_<), Valorant, Apex Legends, & Indie games.
 - :speech_balloon: Ask me about trading, fintech, econ/social trends, interesting data questions, or gaming!
 - :zap: Pronouns: She/her/hers   ![](https://img.shields.io/badge/Kaggle-130%20Upvotes-blue)
 
