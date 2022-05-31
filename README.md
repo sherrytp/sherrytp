@@ -1,12 +1,12 @@
 ### Hi there :wave:
-This is Sherry! Welcome to my Github Profile <img src="https://github-readme-stats.vercel.app/api?username=sherrytp&show_icons=true" alt="logo" height="155" align="right" style="margin: 10px; margin-bottom: 20px;" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=2C7CF7&center=true&lines=Welcome+to+Sherry's+Github+Profile)](https://git.io/typing-svg)
+<img src="https://github-readme-stats.vercel.app/api?username=sherrytp&show_icons=true" alt="logo" height="155" align="right" style="margin: 10px; margin-bottom: 20px;" />
 
 - :telescope: I’m currently working on an algorithmic trading pipeline for [@Eeonum](https://github.com/Eeonum).
 - :seedling: I’m currently learning Javascript and NodeJS, ReactJS.
-- :dancers: I’m looking to collaborate on a data-scrapping program of Bilibili [OWL](https://www.kaggle.com/sherrytp/overwatch-league-stats-lab) streaming.
+- :video_game: Gamer of Overwatch ([OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab)>_<), Valorant, Apex Legends, & Indie games.
 - :speech_balloon: Ask me about trading, fintech, econ/social trends, interesting data questions, or gaming!
-- :video_game: Big gamer of Overwatch>_<, Valorant & Indie games.
-- :zap: Pronouns: She/her/hers   ![](https://img.shields.io/badge/Kaggle-115%20Upvotes-blue)
+- :zap: Pronouns: She/her/hers   ![](https://img.shields.io/badge/Kaggle-130%20Upvotes-blue)
 
 ![sherrytp’s trophy](https://github-profile-trophy.vercel.app/?username=sherrytp&theme=dracula&title=Commit,Followers,PullRequest,Repositories)
 <!--
