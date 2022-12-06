@@ -4,8 +4,8 @@
 
 - :telescope: I’m currently working on an algorithmic trading pipeline for [@Eeonum](https://github.com/Eeonum).
 - :seedling: I’m currently learning Javascript and NodeJS, ReactJS.
-- :video_game: Indie Gamer of Overwatch, Valorant, Apex Legends, & LA recently.
-- :speech_balloon: Ask me about trading, fintech, econ/social trends, interesting data questions (Here is a data-scrapping project related to [OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab) >_<), or gaming!
+- :video_game: Indie Gamer of Overwatch, Valorant, Apex Legends & LA.
+- :speech_balloon: Ask me about trading, fintech, econ/social trends, data questions (Here is a data-scrapping project related to [OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab) >_<), or gaming!
 - :zap: Pronouns: She/her/hers   ![](https://img.shields.io/badge/Kaggle-240%20Upvotes-blue)
 
 ![sherrytp’s trophy](https://github-profile-trophy.vercel.app/?username=sherrytp&theme=dracula&title=Commit,Followers,PullRequest,Repositories)
