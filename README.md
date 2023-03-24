@@ -2,11 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=2C7CF7&center=true&lines=Welcome+to+Sherry's+Github+Profile)](https://git.io/typing-svg)
 <img src="https://github-readme-stats.vercel.app/api?username=sherrytp&show_icons=true" alt="logo" height="155" align="right" style="margin: 10px; margin-bottom: 20px;" />
 
-- :telescope: I’m currently working on an algorithmic trading pipeline for [@Eeonum](https://github.com/Eeonum).
-- :seedling: I’m currently learning Javascript and NodeJS, ReactJS.
-- :video_game: Indie Gamer of Overwatch, Valorant, Apex Legends & LA.
-- :speech_balloon: Ask me about trading, fintech, econ/social trends, data questions (Here is a data-scrapping project related to [OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab) >_<), or gaming!
-- :zap: Pronouns: She/her/hers   ![](https://img.shields.io/badge/Kaggle-240%20Upvotes-blue)
+- :telescope: I’m currently promoting my algorithmic trading model.
+- :seedling: I’m currently learning frond-end in Javascript.
+- :video_game: Indie Gamer: I reached<img src='https://owboost.com/wp-content/plugins/boosting-overwatch/assets//public/images/tier_icons//Diamond5.png' height="2%" width='3%'>Ov**Overwatch**, Valorant, & LA.
+- :speech_balloon: Ask me about trading, fintech, econ/social trends, data science (Here's a data-scrapping project related to [OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab) >_<), or gaming!
+- :zap: Pronouns: She/her/hers   ![](https://img.shields.io/badge/Kaggle-290%20Upvotes-blue)
+
 
 ![sherrytp’s trophy](https://github-profile-trophy.vercel.app/?username=sherrytp&theme=dracula&title=Commit,Followers,PullRequest,Repositories)
 <!--
