@@ -6,7 +6,7 @@
 - :seedling: I’m currently learning frond-end in Javascript.
 - :video_game: Indie Gamer: I reached<img src='https://owboost.com/wp-content/plugins/boosting-overwatch/assets//public/images/tier_icons//Diamond5.png' height="2%" width='3%'>Ov**Overwatch**, Valorant, & LA.
 - :speech_balloon: Ask me about trading, fintech, econ/social trends, data science (Here's a data-scrapping project related to [OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab) >_<), or gaming!
-- :zap: Pronouns: She/her/hers   ![](https://img.shields.io/badge/Kaggle-290%20Upvotes-blue)
+- :zap: Pronouns: She/her/hers   ![](https://img.shields.io/badge/Kaggle-300%20Upvotes-blue)
 
 
 ![sherrytp’s trophy](https://github-profile-trophy.vercel.app/?username=sherrytp&theme=dracula&title=Commit,Followers,PullRequest,Repositories)
