@@ -7,12 +7,10 @@
 - :video_game: Indie Gamer: I reached<img src='https://owboost.com/wp-content/plugins/boosting-overwatch/assets//public/images/tier_icons//Diamond5.png' height="2%" width='3%'>Ov**Overwatch**, Valorant, & LA.
 - :speech_balloon: Ask me about trading, fintech, econ/social trends, data science (Here's a data-scrapping project related to [OWL](https://www.kaggle.com/datasets/sherrytp/overwatch-league-stats-lab) >_<), or gaming!
 - :zap: Check out my portfolio on ![NumerAI](https://img.shields.io/badge/NumerAI-5%20medals-black) and 
-<div id="badges">
   <a href="https://www.kaggle.com/sherrytp">
     <img src="https://img.shields.io/badge/Kaggle-Dataset%20Expert-purple?logo=kaggle&logoColor=blue&style=for-the-badge"/>
   </a>
-</div>
-
+ 
 ![sherrytp’s trophy](https://github-profile-trophy.vercel.app/?username=sherrytp&theme=dracula&title=Commit,Followers,PullRequest,Repositories)
 [![sherrytp's streak](http://github-readme-streak-stats.herokuapp.com?user=sherrytp&theme=dark&background=000000)](https://git.io/streak-stats)
 
