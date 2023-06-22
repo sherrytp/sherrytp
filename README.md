@@ -3,10 +3,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sherrytp&show_icons=true" alt="logo" height="155" align="right" style="margin: 10px; margin-bottom: 20px;" />
 
 - 🔭 I’m currently promoting my algorithmic trading model.
-- 📖 I’m currently learning frond-end in Javascript.
-- 🎮 FPS & Indie game players: reached<img src='https://www.kindpng.com/picc/m/204-2043933_overwatch-diamond-rank-png-transparent-png.png' height="2%" width='3%'>Ov**Overwatch**.
-- 💬 Ask me about trading, fintech, data science, or gaming! 
-- 🤖 Hope to have a ChatGPT assistant that helps with my coding, that takes over my leveling and farming hw in Lost Ark, that can create game bots to play and chat with me, that can serve as my personal assistant~💃 
+- 📖 I’m currently learning front-end in Javascript.
+- 💬 Ask me about trading, data science, or FPS & Indie games🎮 
+- 🤖 Hope to have a ChatGPT assistant that helps with my coding, takes over my leveling and farming hw in Lost Ark, can create game bots to play and chat with me, and can serve as my personal assistant~💃 
 - ⚡ Check out my portfolio on ![NumerAI](https://img.shields.io/badge/NumerAI-5%20medals-black) and 
   <a href="https://www.kaggle.com/sherrytp">
     <img src="https://img.shields.io/badge/Kaggle-Dataset%20Expert-purple?logo=kaggle&logoColor=blue&style=for-the-badge"/>
